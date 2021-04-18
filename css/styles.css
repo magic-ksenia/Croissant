@@ -15,8 +15,6 @@ footer a:hover {
 }
 
 img {
-  border-radius: 6px;
-  width: 70%;
-  height: auto;
-  margin: 20px auto;
+  max-height: 80vh;
+  margin: 15px auto;
 }
