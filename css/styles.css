@@ -1,0 +1,22 @@
+body {
+  background-color: #f0e3ca;
+  text-align: center;
+  color: #212121;
+  margin: 25px;
+}
+
+footer a {
+  color: #ff8303;
+  margin: 0 20px;
+}
+
+footer a:hover {
+  color: #a35709;
+}
+
+img {
+  border-radius: 6px;
+  width: 70%;
+  height: auto;
+  margin: 20px auto;
+}
